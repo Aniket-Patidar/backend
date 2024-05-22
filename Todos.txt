@@ -1,0 +1,10 @@
+Deploy on render 
+NodeMailer   👌
+forget password by mail 👌
+Top 10 product Routes  👌
+Dashboard Routes 👌
+->new User in per day of last 7 days 👌
+->order status for per day of last 7 days 👌
+->multiple varity 👌
+
+    
